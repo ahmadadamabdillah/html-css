@@ -39,3 +39,15 @@ li {
     display: list-item;
     text-align: -webkit-match-parent;
 }
+
+main {
+    padding: 100px 80px 100px 80px;
+}
+
+.container h1 {
+    font-size: 140px;
+}
+
+.container span {
+    color: #ff4a4a;
+}
